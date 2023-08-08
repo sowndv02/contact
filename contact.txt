@@ -1,0 +1,5 @@
+Nguyen Van;A;FPT University;0128987815;vjpro@gmail.com;Ha Noi;Ha Noi;12/05/2002;
+Hoang Van;B;FPT University;0135912852;kute9x@gmail.com;Hoa Lac;Ha Noi;23/04/2000;
+Le Van;V;FPT;0124578963;v@gmail.com;Hola;Thach That;03/12/1990;
+Nguyen Hoang;L;FPT University;0128509721;foodboiz@gmail.com;TPHCM;Ha Noi;12/12/1996;
+Le Van;Q;FPT University;0818257124;zip@gamil.com;Korea;Viet NAm;23/04/2002;
